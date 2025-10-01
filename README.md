@@ -1,4 +1,4 @@
-![Alt text](/Host_a_Static_Website_on.AWS.png)
+
 
 ---
 
@@ -59,7 +59,7 @@ cd /var/www/html
 # Install Git
 yum install git -y
 # Clone the project repository
-git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git
+git clone https://github.com/michealL682/host-a-static-website-on-aws.git
 # Copy files to Apache root
 cp -R host-a-static-website-on-aws/. /var/www/html/
 # Clean up by removing the cloned directory
